@@ -1,3 +1,5 @@
+package my;
+
 import my.cat.Cat;
 
 public class MyCat {

@@ -1,3 +1,5 @@
+package my;
+
 import my.triangle.ThreeSideTriangle;
 import my.triangle.Triangle;
 
