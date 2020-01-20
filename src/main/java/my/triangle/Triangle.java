@@ -14,13 +14,7 @@ public class Triangle {
         this.verticalHeight = verticalHeight;
     }
 
-    /**
-     * Calculates area of a triangle using base and vertical height
-     * @param base
-     * @param verticalHeight
-     * @return
-     */
-    public double calculateArea(double base, double verticalHeight) {
+    public double calculateArea() {
         return base*verticalHeight/2;
     }
 
