@@ -52,7 +52,7 @@ public class ThreeSideTriangle {
      * @param a
      * @param b
      * @param c
-     * @return
+     * @return boolean isValid triangle
      */
     public boolean isTriangleValid(double a, double b, double c) {
         if((a+b)>c && (a+c)>b && (b+c)>a) {
