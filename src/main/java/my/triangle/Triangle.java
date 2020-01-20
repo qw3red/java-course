@@ -6,6 +6,7 @@ public class Triangle {
     private double verticalHeight;
 
     public Triangle() {
+        super();
     }
 
     public Triangle(double base, double verticalHeight) {

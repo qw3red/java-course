@@ -7,6 +7,7 @@ public class Cat {
     private boolean isSleeping;
 
     public Cat() {
+        super();
     }
 
     public Cat(String name, String color, long weight, boolean isSleeping) {

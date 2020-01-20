@@ -6,6 +6,7 @@ public class ThreeSideTriangle {
     private double c;
 
     public ThreeSideTriangle() {
+        super();
     }
 
     public ThreeSideTriangle(double a, double b, double c) {
