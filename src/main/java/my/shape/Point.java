@@ -6,7 +6,8 @@ public class Point extends Shape {
     private double y;
 
     public Point(double a, double b) {
-        x = a; y = b;
+        x = a;
+        y = b;
     }
 
     public double getX() {

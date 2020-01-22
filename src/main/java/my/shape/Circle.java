@@ -13,10 +13,13 @@ public class Circle extends Point {
     }
 
     @Override
-    public String toString()
-    { return "Center = " + super.toString() +
-            "; Radius = " + radius; }
+    public String toString() {
+        return "Center = " + super.toString() +
+            "; Radius = " + radius;
+    }
 
     @Override
-    public String getName() { return "Circle"; }
+    public String getName() {
+        return "Circle";
+    }
 }
